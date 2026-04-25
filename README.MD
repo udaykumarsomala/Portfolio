@@ -1,67 +1,57 @@
-# 👨‍💻 Neyyala Santosh Kumar - Portfolio
+# UDAY KUMAR SOMALA - Portfolio
 
-Welcome to my personal portfolio website 🚀  
-This portfolio showcases my skills, projects, and certifications.
+This repository contains my personal portfolio website. It highlights my background, skills, projects, certifications, and contact details in a clean single-page layout.
 
-🔗 **Live Website:**  
-https://SantoshKumarNeyyala.github.io/Portfolio/
+Live website:
+https://udaykumarsomala.github.io/Portfolio/
 
----
+## About Me
 
-## 📌 About Me
+I am a B.Tech graduate in Electrical Engineering from Santhiram Engineering College. I enjoy learning technologies from scratch and building practical real-world applications.
 
-I am a B.Tech Information Technology graduate passionate about building real-world applications.
+Roles featured in this portfolio:
+- Software Developer
+- Python Developer
+- Web Developer
+- QA Enthusiast
+- Data Analyst Learner
 
-- 💻 Python Developer
-- 🌐 Web Developer
-- 🧪 QA Enthusiast
-- 📊 Data Analyst Learner
-
-I enjoy learning from scratch and building practical projects.
-
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 - Python
-- Git & GitHub
+- Git and GitHub
 
----
+## Featured Projects
 
-## 📂 Projects
+### SmartBank
+A banking workflow simulation project built with Python, Flask, and SQL Server.
 
-### 🏦 SmartBank
-A secure banking workflow simulation system with authentication and transaction handling.
+### Smart Attendance System
+A face recognition attendance system built with Python, OpenCV, Flask, and MySQL.
 
-### 👤 Smart Attendance System
-Face recognition attendance system using anti-spoofing techniques.
+### Amazon Sales Data Analysis
+A data analysis project using Python and Pandas to generate useful business insights.
 
-### 📊 Amazon Sales Data Analysis
-Data analysis project using Python and Pandas to generate insights.
+## Certifications
 
----
+- Python Full Stack Certification
+- Data Science With Gen-AI Certification
 
-## 🎓 Certifications
+## Contact
 
-- Python Full Stack Certification  
-- Data Science with Gen-AI Certification  
+- Email: udaykumarsomala@gmail.com
+- Phone: +91-9989873981
+- LinkedIn: https://www.linkedin.com/in/somala-uday-kumar-032912405/
+- GitHub: https://github.com/udaykumarsomala
 
----
-
-## 📞 Contact
-
-- 📧 Email: nsantosh5885@gmail.com  
-- 📱 Phone: +91 9110594627  
-- 🔗 LinkedIn: https://www.linkedin.com/in/neyyala-santosh-kumar-008797207/  
-- 💻 GitHub: https://github.com/SantoshKumarNeyyala  
-
----
-
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ```bash
-git clone https://github.com/SantoshKumarNeyyala/portfolio.git
-cd portfolio
+git clone https://github.com/udaykumarsomala/Portfolio.git
+cd Portfolio
+```
+
+Then open `index.html` in your browser.

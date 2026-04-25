@@ -252,14 +252,19 @@ body.loaded #loader {
   border-radius: 22px;
   box-shadow: 0 0 35px rgba(56, 189, 248, 0.18);
   animation: floatImage 3s ease-in-out infinite;
+  width: 332px;
+  height: 420px;
+  overflow: hidden;
 }
 
-.image-box img {
-  width: 300px;
-  max-width: 100%;
-  height: auto;
+.image-box img,
+.profile-photo {
+  width: 100%;
+  height: 100%;
   display: block;
   border-radius: 16px;
+  object-fit: cover;
+  object-position: center top;
 }
 
 @keyframes floatImage {
@@ -559,8 +564,9 @@ body.loaded #loader {
     flex: 0 0 320px;
   }
 
-  .image-box img {
-    width: 270px;
+  .image-box {
+    width: 300px;
+    height: 380px;
   }
 }
 
@@ -591,8 +597,9 @@ body.loaded #loader {
     flex: 0 0 280px;
   }
 
-  .image-box img {
-    width: 240px;
+  .image-box {
+    width: 260px;
+    height: 340px;
   }
 }
 
@@ -653,8 +660,9 @@ body.loaded #loader {
     flex: unset;
   }
 
-  .image-box img {
-    width: 220px;
+  .image-box {
+    width: 240px;
+    height: 310px;
   }
 
   .certifications-row {
