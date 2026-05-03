@@ -9,8 +9,7 @@ const roles = [
   "Software Developer",
   "Python Developer",
   "Web Developer",
-  "QA Enthusiast",
-  "Data Analyst Learner"
+ 
 ];
 
 let roleIndex = 0;
@@ -109,33 +108,3 @@ function setActiveNavLink() {
   });
 }
 
-const contactForm = document.getElementById("contactForm");
-const formMessage = document.getElementById("formMessage");
-
-contactForm.addEventListener("submit", async function (e) {
-  e.preventDefault();
-
-  const formData = new FormData(contactForm);
-
-  try {
-    const response = await fetch(contactForm.action, {
-      method: "POST",
-      body: formData,
-      headers: {
-        Accept: "application/json"
-      }
-    });
-
-    if (response.ok) {
-      formMessage.textContent = "Message sent successfully!";
-      formMessage.style.color = "#38bdf8";
-      contactForm.reset();
-    } else {
-      formMessage.textContent = "Something went wrong. Please try again.";
-      formMessage.style.color = "#f87171";
-    }
-  } catch (error) {
-    formMessage.textContent = "Network error. Please try again.";
-    formMessage.style.color = "#f87171";
-  }
-});

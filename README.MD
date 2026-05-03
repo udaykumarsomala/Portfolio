@@ -3,7 +3,7 @@
 This repository contains my personal portfolio website. It highlights my background, skills, projects, certifications, and contact details in a clean single-page layout.
 
 Live website:
-https://udaykumarsomala.github.io/Portfolio/
+https://ai-job-prtal-uday.netlify.app
 
 ## About Me
 
@@ -13,8 +13,6 @@ Roles featured in this portfolio:
 - Software Developer
 - Python Developer
 - Web Developer
-- QA Enthusiast
-- Data Analyst Learner
 
 ## Technologies Used
 
@@ -26,14 +24,12 @@ Roles featured in this portfolio:
 
 ## Featured Projects
 
-### SmartBank
-A banking workflow simulation project built with Python, Flask, and SQL Server.
+### AI Job Portal
+A full-stack job portal application for connecting job seekers and recruiters, with AI-driven support for the hiring workflow.
 
-### Smart Attendance System
-A face recognition attendance system built with Python, OpenCV, Flask, and MySQL.
+Live Site: https://ai-job-prtal-uday.netlify.app
 
-### Amazon Sales Data Analysis
-A data analysis project using Python and Pandas to generate useful business insights.
+Repository: https://github.com/udaykumarsomala/Ai-job-portal
 
 ## Certifications
 
