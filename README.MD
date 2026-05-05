@@ -3,7 +3,7 @@
 This repository contains my personal portfolio website. It highlights my background, skills, projects, certifications, and contact details in a clean single-page layout.
 
 Live website:
-https://ai-job-prtal-uday.netlify.app
+https://uday-portfolio-site.netlify.app/
 
 ## About Me
 
